@@ -1,8 +1,10 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Aplicacion de chat realizada con node
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+
+Creacion de salas
+Mensajes privados
 
 ```
 npm install
